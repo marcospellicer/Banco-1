@@ -17,6 +17,7 @@ public  class Menu {
         System.out.println("7-Ver NumCuenta");
         System.out.println("8-Ver los Digitos de control de la cuenta");
         System.out.println("9-Salir");
+        System.out.println("10- Salir con adios");
         System.out.println("***************************");
         menu=leer.nextInt();
         }
