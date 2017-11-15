@@ -2,7 +2,7 @@ package banco;
 
 import java.util.Scanner;
 
-public class BancoObjeto {
+public class Banco {
 
     public static void main(String[] args) {
         boolean bandera;
